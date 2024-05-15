@@ -1,0 +1,1 @@
+# Nula-s-Fast-Flags-Collection
