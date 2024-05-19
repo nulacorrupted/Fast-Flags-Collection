@@ -234,7 +234,6 @@
 ### Cleaner ESC menu
 ```json
 {
-"FFlagEnableAudioOutputDevice": "False",
 "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
 "FFlagChatTranslationSettingEnabled3": "False",
 "FFlagDisableFeedbackSoothsayerCheck": "False"
