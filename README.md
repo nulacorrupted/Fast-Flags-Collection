@@ -236,7 +236,7 @@
 {
 "FFlagEnableAudioOutputDevice": "False",
 "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0",
-"FFlagChatTranslationSettingsEnabled3": "False",
+"FFlagChatTranslationSettingEnabled3": "False",
 "FFlagDisableFeedbackSoothsayerCheck": "False"
 }
 ```
